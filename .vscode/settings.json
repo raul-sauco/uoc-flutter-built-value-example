@@ -1,5 +1,11 @@
 {
-    "cSpell.words": [
-        "serializers"
-    ]
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.formatOnSave": true
+  },
+  "cSpell.words": [
+    "bvts",
+    "serializers",
+    "zipcode"
+  ]
 }
